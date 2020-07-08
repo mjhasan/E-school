@@ -91,14 +91,14 @@ header {
 }
 
 .info-card {
-    background-color: #eefff5;
+    background-color: #effcef;
     border: none;
     border-radius: 10px;
     padding: 25px 0px;
     margin-bottom: 28px !important;
 }
 
-.white-card {
+.info-card:hover {
     background: #ffffff;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
     text-align: center;
