@@ -1,0 +1,208 @@
+/* Recet CSS */
+
+body {
+    font-family: "Poppins";
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.hilight-text {
+    color: #21b573;
+}
+
+/* Hero Area */
+
+header {
+    background-color: #f0fff0;
+}
+
+#banner {
+    padding: 50px 0px;
+    margin-bottom: 50px;
+}
+
+.banner-text {
+    margin-bottom: 30px;
+}
+
+.nav-item {
+    color: #000000 !important;
+}
+.nav-item:hover {
+    color: #21b573 !important;
+}
+
+.sign-in {
+    background-color: #21b573;
+    color: #ffffff !important;
+}
+.sign-in:hover {
+    background-color: #2d8d52;
+    color: #ffffff !important;
+}
+
+#banner p:first-child {
+    color: #fd511a;
+}
+
+#banner p:last-child {
+    color: #6c6b6b;
+}
+
+.navbar-nav .nav-link {
+    padding: 6px 15px !important;
+    border-radius: 15px;
+}
+
+.btn {
+    padding: 6px 15px;
+    border-radius: 15px;
+    background-color: #21b573;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #2d8d52;
+    color: #ffffff;
+}
+
+/* Information Area */
+
+#information-area {
+    margin-bottom: 50px;
+}
+
+.info-item {
+    background-color: #f0fff0;
+}
+
+.info-card img.card-img-top {
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.info-card {
+    background-color: #eefff5;
+    border: none;
+    border-radius: 10px;
+    padding: 25px 0px;
+    margin-bottom: 28px !important;
+}
+
+.white-card {
+    background: #ffffff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Course Area */
+
+#course-area {
+    margin: 50px 0px;
+}
+
+.course-btn {
+    width: 125px;
+    display: inline-block;
+    padding: 6px 0px;
+    border-radius: 15px;
+    background-color: #21b573;
+    color: #ffffff;
+    border: none;
+    margin: 10px;
+    margin-top: -5px;
+}
+
+.course-btn:hover {
+    background-color: #2d8d52;
+    color: #ffffff;
+    border: none;
+}
+
+.course-card {
+    padding: 20px;
+    border: none;
+    background: #ffffff;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+
+.card-footer {
+    margin-top: 20px;
+    padding: 0;
+    border: none;
+    background-color: #ffffff;
+}
+
+.course-title {
+    margin-bottom: 30px;
+}
+
+.card-body {
+    padding-left: 0px;
+}
+
+/* Testimonial Area */
+
+#testimonial-area img {
+    display: inherit;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+#testimonial-area {
+    margin-bottom: 50px;
+}
+
+.testimonial {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.testimonial-text {
+    padding-left: 30px;
+}
+
+/* Teachers Area */
+
+.teacher-card {
+    padding: 20px;
+    border: none;
+    background: #f9fafc;
+}
+.teacher-card img {
+    box-shadow: 0px 10px 20px rgba(158, 158, 158, 0.1);
+    border-radius: 50%;
+}
+/* Footer Area */
+
+footer {
+    background-color: #282531;
+    color: #e8e8e8;
+    padding: 30px;
+}
+footer a {
+    color: #e8e8e8;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #e8e8e8;
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 50px;
+    margin-bottom: -10px;
+    color: #cdcdcd;
+}
